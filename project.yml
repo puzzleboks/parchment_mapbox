@@ -1,0 +1,28 @@
+_prefs: 
+  mapid: puzzleboks.fa4d7f3b
+  saveCenter: true
+_properties: {}
+attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> ©  Lon Phelps"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -44.9561
+  - 41.0462
+  - 4
+description: A painstakingly hand-drawn representation of the entire world. Pen and ink on parchment.
+format: "png8:m=h:c=64"
+interactivity_layer: ''
+layers: null
+maxzoom: 21
+minzoom: 2
+name: Pen & Ink
+source: "mapbox:///mapbox.mapbox-terrain-v1,mapbox.mapbox-streets-v5,mapbox.mapbox-bathymetry-v1,puzzleboks.dcc56ee6"
+styles: 
+  - style.mss
+  - road.mss
+  - terrain.mss
+  - illustrations.mss
+template: ''

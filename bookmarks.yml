@@ -1,0 +1,30 @@
+- place_name: Linesville, 16424, Pennsylvania, United States
+  zoom: 3
+  center: 
+    - 41.705728515237524
+    - -80.5078125
+  tags: 
+    - userbookmark
+  index: 0
+- place_name: Vatican City, 00184, ROMA, Italy
+  zoom: 18
+  center: 
+    - 41.887
+    - 12.503899999999987
+  tags: 
+    - userbookmark
+  index: 1
+- place_name: 19.7253, -69.7852
+  zoom: 3
+  center: 
+    - 19.72534224805787
+    - -69.78515625
+  tags: 
+    - userbookmark
+- place_name: 381 W 76th St, New York, 10024, New York, United States
+  zoom: 16
+  center: 
+    - 40.783214192587465
+    - -73.98399353027344
+  tags: 
+    - userbookmark
